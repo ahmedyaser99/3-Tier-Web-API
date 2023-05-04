@@ -1,0 +1,15 @@
+D:\Yasser\WebAPI\Day02\Task02\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\Yasser\WebAPI\Day02\Task02\BLL\bin\Debug\net6.0\BLL.dll
+D:\Yasser\WebAPI\Day02\Task02\BLL\bin\Debug\net6.0\BLL.pdb
+D:\Yasser\WebAPI\Day02\Task02\BLL\bin\Debug\net6.0\DAL.dll
+D:\Yasser\WebAPI\Day02\Task02\BLL\bin\Debug\net6.0\DAL.pdb
+D:\Yasser\WebAPI\Day02\Task02\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\Yasser\WebAPI\Day02\Task02\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yasser\WebAPI\Day02\Task02\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\Yasser\WebAPI\Day02\Task02\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\Yasser\WebAPI\Day02\Task02\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\Yasser\WebAPI\Day02\Task02\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\Yasser\WebAPI\Day02\Task02\BLL\obj\Debug\net6.0\BLL.dll
+D:\Yasser\WebAPI\Day02\Task02\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\Yasser\WebAPI\Day02\Task02\BLL\obj\Debug\net6.0\BLL.pdb
+D:\Yasser\WebAPI\Day02\Task02\BLL\obj\Debug\net6.0\ref\BLL.dll

@@ -1,0 +1,14 @@
+D:\Yasser\WebAPI\Day02\Task02\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\Yasser\WebAPI\Day02\Task02\DAL\bin\Debug\net6.0\DAL.dll
+D:\Yasser\WebAPI\Day02\Task02\DAL\bin\Debug\net6.0\DAL.pdb
+D:\Yasser\WebAPI\Day02\Task02\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\Yasser\WebAPI\Day02\Task02\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yasser\WebAPI\Day02\Task02\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\Yasser\WebAPI\Day02\Task02\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\Yasser\WebAPI\Day02\Task02\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\Yasser\WebAPI\Day02\Task02\DAL\obj\Debug\net6.0\DAL.dll
+D:\Yasser\WebAPI\Day02\Task02\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\Yasser\WebAPI\Day02\Task02\DAL\obj\Debug\net6.0\DAL.pdb
+D:\Yasser\WebAPI\Day02\Task02\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\Yasser\WebAPI\Day02\Task02\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\Yasser\WebAPI\Day02\Task02\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache

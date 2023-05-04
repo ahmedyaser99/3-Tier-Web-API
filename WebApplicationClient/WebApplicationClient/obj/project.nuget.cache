@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tGekhA4bX/6pEd2o8eTopGtYycjvFq0BT+dZ71MZS2kMDfdyhEpKqO9SrrWX6jwhFi1XH+lVAZuZKziqSdmipw==",
+  "success": true,
+  "projectFilePath": "D:\\Yasser\\WebAPI\\Day02\\WebApplicationClient\\WebApplicationClient\\WebApplicationClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lap Smart\\.nuget\\packages\\jquery\\3.6.4\\jquery.3.6.4.nupkg.sha512"
+  ],
+  "logs": []
+}
